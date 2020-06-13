@@ -2,8 +2,8 @@
 
 ##Softmax_learning
 
-The first chart represents three groups of points. The program estimates to which of those clusters a given point might be put. The last chart shows the loss value that lowers after each iteration of the machine learning loop.
-The program was created earlier and it runs on TensorFlow 1.0
+The first chart represents three clusters of points. The program estimates to which of those clusters a given point might belong. The last chart shows the loss value that lowers after each iteration of the machine learning loop.
+The program was created in the earlier version of TensorFlow - v1.0
 
 ##GradientOptimizer
 
